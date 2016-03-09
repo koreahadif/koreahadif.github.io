@@ -732,7 +732,7 @@ a.sign {
 }
 .event-grid {
   background-color: #EEE;
-  width: 32.5%;
+  width: 100%;
   margin-right: 1%;
   padding: 0;
   position:relative;
@@ -1770,7 +1770,7 @@ ul.contact-grids h5{
 	  font-size: 1.1em;
 	  }
 	  .event-grid {
-	  width: 32.5%;
+	  width: 100%;
 	  margin-right: 1%;
 	  float: left;
 	}
@@ -1971,12 +1971,12 @@ ul.contact-grids h5{
 	  margin-bottom:1em;
   }
   .event-grid {
-  width: 58%;
+  width: 100%;
   float: left;
-  margin: 4% 0 8% 20%;
+  /*margin: 4% 0 8% 20%;*/
   }
   .event-grid.lost {
-	  margin: 4% 0 0% 20%;
+	  /*margin: 4% 0 0% 20%;*/
 	}
   .event-date {
 	    left: 37.5%;
@@ -2237,12 +2237,12 @@ ul.contact-grids h5{
   font-size: 0.85em;
   }
   .event-grid {
-	  width: 78%;
+	  width: 100%;
 	  float: left;
-	  margin: 1% 0 18% 11%;
+	  /*margin: 1% 0 18% 11%;*/
 	}
 	.event-grid.lost {
-	  margin: 1% 0 0% 11%;
+	  /*margin: 1% 0 0% 11%;*/
 	}
 }
 @media (max-width:320px){
@@ -2331,7 +2331,7 @@ ul.contact-grids h5{
 	.event-grid {
 	  width: 100%;
 	  float: left;
-	   margin: 4% 0 23% 0%;
+	   /*margin: 4% 0 23% 0%;*/
 	  padding: 0;
 	}
 	.event-date {
@@ -2342,7 +2342,7 @@ ul.contact-grids h5{
 	  padding: 25px 10px;
 	}
 	.event-grid.lost {
-	  margin: 2% 0 27% 0%;
+	  /*margin: 2% 0 27% 0%;*/
 	}
 	.bottom-section h3 {
 	  font-size: 2em;
