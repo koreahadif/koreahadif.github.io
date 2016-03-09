@@ -472,11 +472,10 @@ a.sign {
 }
 .banner-info p{
   color: #fff;
-  font-size: 1em;
+  font-size: 2em;
   z-index: 999;
   text-align: center;
   margin: 0 auto;
-  padding: 1em 0;
 }
 /*--welcome-section--*/
 .welcome-section {
@@ -2271,8 +2270,7 @@ ul.contact-grids h5{
 	  min-height: 159px;
 	}
 	.banner-info p {
-	  font-size: 0.85em;
-	  padding: 0.3em 0;
+	  font-size: 1.5em;
 	}
 	span.menu {
 	   margin: 0.5em 0.1em 0.3em 0em;
