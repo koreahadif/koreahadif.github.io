@@ -251,14 +251,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	 </div>
 			<!--start-smoth-scrolling-->
 			<script type="text/javascript">
-								jQuery(document).ready(function($) {
-									$(".scroll").click(function(event){		
-										event.preventDefault();
-										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
-									});
-								});
+				jQuery(document).ready(function($) {
+					$(".scroll").click(function(event){
+						event.preventDefault();
+						$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+					});
+				});
 
-				$(".ch-info").on("touchend", function() {
+				$(".ch-info").on("click", function() {
 					if ($(this).hasClass("changed")) {
 						$(this).removeClass("changed");
 					} else {
