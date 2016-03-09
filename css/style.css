@@ -655,6 +655,13 @@ a.sign {
 	-ms-transform: rotate3d(0,1,0,-180deg);
 	transform: rotate3d(0,1,0,-180deg);
 }
+.ch-item .ch-info.changed {
+    -webkit-transform: rotate3d(0,1,0,-180deg);
+    -moz-transform: rotate3d(0,1,0,-180deg);
+    -o-transform: rotate3d(0,1,0,-180deg);
+    -ms-transform: rotate3d(0,1,0,-180deg);
+    transform: rotate3d(0,1,0,-180deg);
+}
 /*--bottom-section--*/
 .bottom-section{
  background: url(../images/bottom.jpg) no-repeat 0px 0px;
