@@ -648,13 +648,13 @@ a.sign {
 		inset 0 0 3px rgba(115,114, 23, 0.8);
 }
 
-.ch-item:hover .ch-info {
+/*.ch-item:hover .ch-info {
 	-webkit-transform: rotate3d(0,1,0,-180deg);
 	-moz-transform: rotate3d(0,1,0,-180deg);
 	-o-transform: rotate3d(0,1,0,-180deg);
 	-ms-transform: rotate3d(0,1,0,-180deg);
 	transform: rotate3d(0,1,0,-180deg);
-}
+}*/
 .ch-item .ch-info.changed {
     -webkit-transform: rotate3d(0,1,0,-180deg);
     -moz-transform: rotate3d(0,1,0,-180deg);
